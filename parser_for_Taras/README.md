@@ -12,12 +12,11 @@ file russian_surnames - all russians surnames
 
 # Installation
 
-1. Clone the repository 
-2. Change data of account/s
+1. Clone the repository
 ```
 If you don't use Git, you can simply download the repository source code in a ZIP archive and extract it to your computer.
 ```
-3. Create a virtual environment and activate it
+2. Create a virtual environment and activate it
 ```
 python -m venv venv
 for Mac
@@ -26,19 +25,18 @@ or
 for Win
 source venv/Skripts/activate
 ```
-4. Install dependencies
+3. Install dependencies
 ```
 pip install -r requirements.txt
-```
-5. Create a .env in the project root using the image .env.example
-or change accounts in code.
 
-6. Start 
 ```
-auth telethon.session - python db_users_telethon_auth.py
-join in groups fast - join_group_hard.py
-delete all ends of words (it gives profit for UTF-8) - python sushestvitelnie.py
+5. Start
+
 ```
+python parser_for_Taras.py
+
+
+
 
 # Ready!
 You have successfully installed an Session-creator and joiner-to-groups and are ready to start using it!
