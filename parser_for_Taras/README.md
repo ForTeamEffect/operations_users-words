@@ -1,14 +1,3 @@
-# operations_users-words
-
-# some softs for:
-
-1. auth telethon.session - python db_users_telethon_auth.py
-2. join in groups fast - python join_group_hard.py
-3. delete all ends of words (it gives profit for UTF-8) - python sushestvitelnie.py
-4. convert your downloaded file with Socks5 proxys to the telethon format - python porydok_ip_convertor.py or just run it from exploer
-file russian - all russian words
-file russian_edit_base - russian words with filter program #3
-file russian_surnames - all russians surnames
 
 # Installation
 
